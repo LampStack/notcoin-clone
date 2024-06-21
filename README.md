@@ -1,9 +1,9 @@
-# NotCoin Telegram Bot Clone Source Code [FakeTap](https://t.me/FakeTapBot)
+# NotCoin Telegram Bot Clone Source Code [FakeTap](https://t.me/LimooCoinBot)
 
 
-# [FakeTap Bot](https://t.me/FakeTapBot)
+# [LimooCoinBot](https://t.me/LimooCoinBot)
 
-[FakeTap](https://t.me/FakeTapBot) Bot is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
+[LimooCoin](https://t.me/LimooCoinBot) Bot is a powerful and interactive AirDrop cryptocurrency bot that allows users to collect points by playing a game and clicking on a coin. Additionally, users can earn more points through referrals and completing daily activities within the bot. This bot is built using HTML, CSS, JavaScript, and PHP and includes a comprehensive admin panel for managing users, activities, and other functionalities.
 
 ## Features
 
