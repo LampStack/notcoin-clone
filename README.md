@@ -18,12 +18,10 @@
 
 ## Previews
 <div style="display: flex; overflow-x: auto;">
-  <img src="./src/home.png" alt="Slide 1" width="200" height="auto">
-  <img src="./src/Boost.png" alt="Slide 2" width="200" height="auto">
-  <img src="./src/leagues.png" alt="Slide 3" width="200" height="auto">
-  <img src="./src/referral.png" alt="Slide 4" width="200" height="auto">
-  <img src="./src/tasks.png" alt="Slide 5" width="200" height="auto">
-  <img src="./src/Stats.png" alt="Slide 5" width="200" height="auto">
+  <img src="./src/main-page.png" alt="Slide 1" width="200" height="auto">
+  <img src="./src/boost-page.png" alt="Slide 2" width="200" height="auto">
+  <img src="./src/task-page.png" alt="Slide 3" width="200" height="auto">
+  <img src="./src/stat-page.png" alt="Slide 4" width="200" height="auto">
 </div>
 
 
