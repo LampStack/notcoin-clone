@@ -1,4 +1,4 @@
-# NotCoin Telegram Bot Clone Source Code [FakeTap](https://t.me/LimooCoinBot)
+# NotCoin Telegram Bot Clone Source Code [LimooCoinBot](https://t.me/LimooCoinBot)
 
 
 # [LimooCoinBot](https://t.me/LimooCoinBot)
