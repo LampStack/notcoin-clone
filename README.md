@@ -16,12 +16,23 @@
   - **Task Management**: Create and manage daily activities and missions.
   - **Statistics**: View detailed statistics about user engagement and activity performance.
 
-## Previews
+## bot Previews
 <div style="display: flex; overflow-x: auto;">
   <img src="./src/main-page.png" alt="Slide 1" width="200" height="auto">
   <img src="./src/boost-page.png" alt="Slide 2" width="200" height="auto">
   <img src="./src/task-page.png" alt="Slide 3" width="200" height="auto">
   <img src="./src/stat-page.png" alt="Slide 4" width="200" height="auto">
+  <img src="./src/ref1-page.png" alt="Slide 4" width="200" height="auto">
+  <img src="./src/ref2-page.png" alt="Slide 4" width="200" height="auto">
+</div>
+
+## admin-panel Previews
+<div style="display: flex; overflow-x: auto;">
+  <img src="./src/search1-admin-page.png" alt="Slide 1" width="200" height="auto">
+  <img src="./src/search2-admin-page.png" alt="Slide 2" width="200" height="auto">
+  <img src="./src/manage-admin-page.png" alt="Slide 3" width="200" height="auto">
+  <img src="./src/task-admin-page.png" alt="Slide 4" width="200" height="auto">
+  <img src="./src/static-admin-page.png" alt="Slide 4" width="200" height="auto">
 </div>
 
 
