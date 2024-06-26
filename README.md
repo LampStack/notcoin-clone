@@ -7,7 +7,6 @@
 
 ## Features
 
-<b>⚠️ This project is not yet complete</b>
 - **Interactive Game**: Users can collect points by clicking on a coin in a fun and engaging game.
 - **Authorization via Telegram**: Full authentication of the user is done by Telegram web services and there is no possibility of cheat.
 - **Mobile Adaptation**: Fully responsive and compatible with all types of mobile phones.
