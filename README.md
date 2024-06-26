@@ -9,12 +9,17 @@
 
 <b>⚠️ This project is not yet complete</b>
 - **Interactive Game**: Users can collect points by clicking on a coin in a fun and engaging game.
+- **Authorization via Telegram**: Full authentication of the user is done by Telegram web services and there is no possibility of cheat.
+- **Mobile Adaptation**: Fully responsive and compatible with all types of mobile phones.
+- **DDoS Protection (CloudFlare)**: Have a DNS protection system.
 - **Referral System**: Users can earn additional points by inviting others to join and play the game.
 - **Daily Activities**: Users can complete daily activities to earn more points.
 - **Admin Panel**: A full-featured admin panel to manage users, activities, and view detailed statistics.
-  - **User Management**: Add, remove, and manage users.
-  - **Task Management**: Create and manage daily activities and missions.
+  - **User Management**: Search users by (UserID|Name|Username) and change all user item values.
+  - **Task Management**: Create|Delete missions and for each missions Create|Delete Tasks (There is two types of tasks : JoinChat|VisitWebsite).
   - **Statistics**: View detailed statistics about user engagement and activity performance.
+  - **BackUP**: Get database backup.
+  - **Maintenance Mode**: Temporary and timed shutdown of the robot (with a dedicated page).
 
 ## bot Previews
 <div style="display: flex; overflow-x: auto;">
