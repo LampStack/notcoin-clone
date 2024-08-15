@@ -1,5 +1,6 @@
 # NotCoin Telegram Bot Clone Source Code [LimooCoinBot](https://t.me/LimooCoinBot)
 
+# Come To my Telegram Channel to see another projects : [osClub](https://t.me/osClub)
 
 # [LimooCoinBot](https://t.me/LimooCoinBot)
 
@@ -48,7 +49,7 @@
 ## Pricing
 
 This script is available for purchase at **$800** With Full Customization !<br>
-📛 Pay First 📛<br>
+<br>
 📛 Scammers Not Come !!! 📛
 
 ## Buying
